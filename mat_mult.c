@@ -66,7 +66,7 @@ void matmul(matrix *a, matrix *b, matrix *c) {
 int main() {
     // int r1, c1, r2, c2;
     // int r1, c1, r2, c2 = 100;
-    int r1 = 500; int r2 = 500; int c1 = 500; int c2 = 500;
+    int r1 = 100; int r2 = 100; int c1 = 100; int c2 = 100;
 
     matrix a, b, c;
     // printf("Matrix #1 rows and columns:\n");
